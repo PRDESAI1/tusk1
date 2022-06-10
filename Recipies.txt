@@ -4,6 +4,9 @@ kheer
 pani-puri
 chicken
 
+beans
+noodles
+
 
 
 
